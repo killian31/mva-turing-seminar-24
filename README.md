@@ -1,6 +1,8 @@
 # The Problem with AI Safety
 Killian Steunou
 
+![A digital human in a prison](banner_tpwais.png)
+
 ## Table of Contents
 
 - [1. Introduction](#1-introduction)
